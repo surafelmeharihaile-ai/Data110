@@ -38,7 +38,7 @@ Second
 
 Third Item
 
-Links 
+Links: 
 
 [relaxing music] (https://www.youtube.com/watch?v=sF80I-TQiW0)
 
@@ -46,13 +46,29 @@ Links
 
 Code Block: 
 
- def greet(Surafel):
+```python
+def greet(name):
+    return f"Hello, {name}!"
 
-    return f"Hello, {John}!"
+print(greet("World"))
+```
 
-print(greet("Everyone"))
+Inline code : 
 
-'print(Hello)'
+`print(Hi)`
+
+Blockquotes : 
+
+> With great power comes great responsibility.
+>
+> — Spider-Man.
+
+
+   
+
+ 
+
+
 
 
 
