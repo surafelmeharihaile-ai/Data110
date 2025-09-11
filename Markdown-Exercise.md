@@ -53,9 +53,9 @@ def greet(name):
 print(greet("World"))
 ```
 
-Inline code : 
+Inline code :
 
-`print(Hi)`
+ `print()` 
 
 Blockquotes : 
 
@@ -63,8 +63,12 @@ Blockquotes :
 >
 > — Spider-Man.
 
+Checklists : 
 
-   
+
+- [x] Checked item
+      
+- [X] Another checked   
 
  
 
